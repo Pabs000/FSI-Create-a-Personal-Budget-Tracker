@@ -1,6 +1,6 @@
-let weeklyExpenses = 100
-let monthlyExpenses = 400
-let annualExpenses = 4800
+let weeklyExpenses = 0
+let monthlyExpenses = 0
+let annualExpenses = 0
 
 
 
